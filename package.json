@@ -1,0 +1,17 @@
+{
+  "name": "mdirshaddev.com",
+  "homepage": "https://mdirshaddev.vercel.app",
+  "description": "My Personal Website",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {},
+  "keywords": [],
+  "author": {
+    "name": "Md Irshad",
+    "email": "mdirshaddev+github@gmail.com",
+    "url": "https://mdirshaddev.vercel.app"
+  },
+  "license": "MIT",
+  "devDependencies": {},
+  "dependencies": {}
+}
