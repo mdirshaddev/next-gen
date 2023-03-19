@@ -1,0 +1,9 @@
+# pnpm
+**/.pnpm-store
+
+# next
+**/.next
+
+# storybook
+**/*-storybook-static
+

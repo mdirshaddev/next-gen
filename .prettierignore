@@ -1,0 +1,10 @@
+# pnpm
+**/.pnpm-store
+pnpm-lock.yaml
+
+# next
+**/.next
+
+# storybook
+**/*-storybook-static
+
